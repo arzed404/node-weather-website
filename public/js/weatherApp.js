@@ -1,4 +1,4 @@
-const weatherForm = document.querySelector("form")
+const weatherForm = document.querySelector("#weatherForm")
 const address = document.querySelector("input")
 const forecast = document.querySelector("#forecast")
 forecast.textContent = ""
